@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "Image": "image1.jpg",
+        "Name": "Product 1",
+        "Brand Name": "Brand A",
+        "Type": "Type X",
+        "Price": 49.99,
+        "Short description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Rating": 4.5
+    },
+    {
+        "id": 2,
+        "Image": "image2.jpg",
+        "Name": "Product 2",
+        "Brand Name": "Brand B",
+        "Type": "Type Y",
+        "Price": 29.99,
+        "Short description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Rating": 3.8
+    },
+    {
+        "id": 3,
+        "Image": "image3.jpg",
+        "Name": "Product 3",
+        "Brand Name": "Brand C",
+        "Type": "Type Z",
+        "Price": 39.99,
+        "Short description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "Rating": 4.2
+    },
+    {
+        "id": 4,
+        "Image": "image4.jpg",
+        "Name": "Product 4",
+        "Brand Name": "Brand D",
+        "Type": "Type X",
+        "Price": 59.99,
+        "Short description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+        "Rating": 4.7
+    },
+    {
+        "id": 5,
+        "Image": "image5.jpg",
+        "Name": "Product 5",
+        "Brand Name": "Brand A",
+        "Type": "Type Y",
+        "Price": 34.99,
+        "Short description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
+        "Rating": 4.0
+    },
+    {
+        "id": 6,
+        "Image": "image6.jpg",
+        "Name": "Product 6",
+        "Brand Name": "Brand E",
+        "Type": "Type Z",
+        "Price": 44.99,
+        "Short description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+        "Rating": 4.6
+    },
+    {
+        "id": 7,
+        "Image": "image7.jpg",
+        "Name": "Product 7",
+        "Brand Name": "Brand F",
+        "Type": "Type X",
+        "Price": 69.99,
+        "Short description": "Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Rating": 3.9
+    },
+    {
+        "id": 8,
+        "Image": "image8.jpg",
+        "Name": "Product 8",
+        "Brand Name": "Brand A",
+        "Type": "Type Y",
+        "Price": 49.99,
+        "Short description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+        "Rating": 4.3
+    },
+    {
+        "id": 9,
+        "Image": "image9.jpg",
+        "Name": "Product 9",
+        "Brand Name": "Brand G",
+        "Type": "Type Z",
+        "Price": 54.99,
+        "Short description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Rating": 4.5
+    },
+    {
+        "id": 10,
+        "Image": "image10.jpg",
+        "Name": "Product 10",
+        "Brand Name": "Brand H",
+        "Type": "Type X",
+        "Price": 59.99,
+        "Short description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+        "Rating": 4.7
+    },
+    {
+        "id": 11,
+        "Image": "image11.jpg",
+        "Name": "Product 11",
+        "Brand Name": "Brand I",
+        "Type": "Type Y",
+        "Price": 39.99,
+        "Short description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
+        "Rating": 4.0
+    },
+    {
+        "id": 12,
+        "Image": "image12.jpg",
+        "Name": "Product 12",
+        "Brand Name": "Brand J",
+        "Type": "Type Z",
+        "Price": 44.99,
+        "Short description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+        "Rating": 4.6
+    },
+    {
+        "id": 13,
+        "Image": "image13.jpg",
+        "Name": "Product 13",
+        "Brand Name": "Brand K",
+        "Type": "Type X",
+        "Price": 59.99,
+        "Short description": "Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Rating": 3.9
+    },
+    {
+        "id": 14,
+        "Image": "image14.jpg",
+        "Name": "Product 14",
+        "Brand Name": "Brand L",
+        "Type": "Type Y",
+        "Price": 49.99,
+        "Short description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+        "Rating": 4.3
+    },
+    {
+        "id": 15,
+        "Image": "image15.jpg",
+        "Name": "Product 15",
+        "Brand Name": "Brand M",
+        "Type": "Type Z",
+        "Price": 54.99,
+        "Short description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Rating": 4.5
+    },
+    {
+        "id": 16,
+        "Image": "image16.jpg",
+        "Name": "Product 16",
+        "Brand Name": "Brand N",
+        "Type": "Type X",
+        "Price": 49.99,
+        "Short description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Rating": 4.5
+    },
+    {
+        "id": 17,
+        "Image": "image17.jpg",
+        "Name": "Product 17",
+        "Brand Name": "Brand O",
+        "Type": "Type Y",
+        "Price": 29.99,
+        "Short description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Rating": 3.8
+    },
+    {
+        "id": 18,
+        "Image": "image18.jpg",
+        "Name": "Product 18",
+        "Brand Name": "Brand P",
+        "Type": "Type Z",
+        "Price": 39.99,
+        "Short description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "Rating": 4.2
+    },
+    {
+        "id": 19,
+        "Image": "image19.jpg",
+        "Name": "Product 19",
+        "Brand Name": "Brand Q",
+        "Type": "Type X",
+        "Price": 59.99,
+        "Short description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+        "Rating": 4.7
+    },
+    {
+        "id": 20,
+        "Image": "image20.jpg",
+        "Name": "Product 20",
+        "Brand Name": "Brand R",
+        "Type": "Type Y",
+        "Price": 34.99,
+        "Short description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
+        "Rating": 4.0
+    },
+    {
+        "id": 21,
+        "Image": "image21.jpg",
+        "Name": "Product 21",
+        "Brand Name": "Brand S",
+        "Type": "Type Z",
+        "Price": 44.99,
+        "Short description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+        "Rating": 4.6
+    },
+    {
+        "id": 22,
+        "Image": "image22.jpg",
+        "Name": "Product 22",
+        "Brand Name": "Brand T",
+        "Type": "Type X",
+        "Price": 69.99,
+        "Short description": "Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Rating": 3.9
+    },
+    {
+        "id": 23,
+        "Image": "image23.jpg",
+        "Name": "Product 23",
+        "Brand Name": "Brand U",
+        "Type": "Type Y",
+        "Price": 49.99,
+        "Short description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+        "Rating": 4.3
+    },
+    {
+        "id": 24,
+        "Image": "image24.jpg",
+        "Name": "Product 24",
+        "Brand Name": "Brand V",
+        "Type": "Type Z",
+        "Price": 54.99,
+        "Short description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Rating": 4.5
+    }
+]
